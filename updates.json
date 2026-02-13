@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "przykladowe-rozszerzenie-id@przyklad.com": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/x-checked-badge/releases/download/v1.0/X-Checked-Badge-1.0.xpi"
+        }
+      ]
+    }
+  }
+}
